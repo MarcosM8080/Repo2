@@ -1,10 +1,1 @@
- Volume in drive C is Kingston SSD
- Volume Serial Number is 1097-7A03
-
- Directory of C:\Users\Marco\MyProject
-
-04/09/2024  09:53 PM    <DIR>          .
-04/09/2024  09:53 PM    <DIR>          ..
-04/09/2024  09:53 PM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  18,346,663,936 bytes free
+change indefinite
